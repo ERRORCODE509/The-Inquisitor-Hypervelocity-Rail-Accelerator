@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "the_inquisitor",
+    "name": "The Inquisitor Hypervelocity Rail Accelerator",
+    "authors": [ "ERROR_CODE" ],
+    "description": "The Inquisitor Hypervelocity Rail Accelerator: A weapon for the insane, unhinged, and truely desperate.",
+    "category": "items",
+    "dependencies": [ "dda", "more_survivor_stuff" ]
+  }
+]
