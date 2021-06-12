@@ -7,10 +7,10 @@
     "skill_used": "fabrication",
     "skills_required": [ [ "mechanics", 10 ], [ "electronics", 10 ], [ "computer", 8 ], [ "survival", 6 ] ],
     "using": [
-      [ "welding_standard", 500 ],
-      [ "blacksmithing_standard", 120 ],
-      [ "surface_heat", 150 ],
-      [ "steel_standard", 90 ]
+      [ "welding_standard", 800 ],
+      [ "blacksmithing_standard", 180 ],
+      [ "surface_heat", 200 ],
+      [ "steel_standard", 125 ]
     ],
     "difficulty": 10,
     "time": "168 h",
@@ -26,17 +26,17 @@
 	{ "id": "SCREW_FINE", "level": 1 },
 	{ "id": "REAM", "level": 1 }
 	],
-    "tools": [ [ [ "soldering_standard", 3, "LIST" ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ], [ [ "mold_plastic", -1 ] ], [ [ "mss_machining_rig", 2500 ] ], [ [ "mss_lathing_rig", 2500 ] ] ],
+    "tools": [ [ [ "soldering_standard", 80, "LIST" ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ], [ [ "mold_plastic", -1 ] ], [ [ "mss_machining_rig", 2500 ] ], [ [ "mss_lathing_rig", 2500 ] ] ],
     "components": [
-      [ [ "plastic_chunk", 90 ] ],
-      [ [ "sheet_metal", 30 ] ],
-      [ [ "cable", 900 ] ],
-      [ [ "amplifier", 110 ] ],
-      [ [ "power_supply", 80 ] ],
-      [ [ "e_scrap", 200 ] ],
-      [ [ "processor", 30 ] ],
-      [ [ "RAM", 8 ] ],
-      [ [ "small_lcd_screen", 6 ] ],
+      [ [ "plastic_chunk", 100 ] ],
+      [ [ "sheet_metal", 40 ] ],
+      [ [ "cable", 1100 ] ],
+      [ [ "amplifier", 150 ] ],
+      [ [ "power_supply", 90 ] ],
+      [ [ "e_scrap", 210 ] ],
+      [ [ "processor", 32 ] ],
+      [ [ "RAM", 12 ] ],
+      [ [ "small_lcd_screen", 8 ] ],
       [ [ "battery_ups", 4 ] ],
       [ [ "small_storage_battery", 4 ], [ "UPS_off", 4 ] ]
     ]
