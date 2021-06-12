@@ -1,0 +1,44 @@
+[
+  {
+    "type": "recipe",
+    "result": "the_inquisitor",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "fabrication",
+    "skills_required": [ [ "mechanics", 10 ], [ "electronics", 10 ], [ "computer", 8 ], [ "survival", 6 ] ],
+    "using": [
+      [ "welding_standard", 500 ],
+      [ "blacksmithing_standard", 120 ],
+      [ "surface_heat", 90 ],
+      [ "steel_standard", 3 ]
+    ],
+    "difficulty": 10,
+    "time": "89 h",
+    "autolearn": true,
+    "qualities": [ { "id": "CHISEL", "level": 3 },
+	{ "id": "HAMMER", "level": 3 },
+	{ "id": "HAMMER_FINE", "level": 1 },
+	{ "id": "SAW_M", "level": 2 },
+	{ "id": "SAW_M_FINE", "level": 1 },
+	{ "id": "WRENCH", "level": 1 },
+	{ "id": "WRENCH_FINE", "level": 1 },
+	{ "id": "SCREW", "level": 1 },
+	{ "id": "SCREW_FINE", "level": 1 },
+	{ "id": "REAM", "level": 1 }
+	],
+    "tools": [ [ [ "soldering_standard", 3, "LIST" ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ], [ [ "mold_plastic", -1 ] ], [ [ "mss_machining_rig", 2500 ] ], [ [ "mss_lathing_rig", 2500 ] ] ],
+    "components": [
+      [ [ "plastic_chunk", 90 ] ],
+      [ [ "sheet_metal", 30 ] ],
+      [ [ "cable", 900 ] ],
+      [ [ "amplifier", 110 ] ],
+      [ [ "power_supply", 80 ] ],
+      [ [ "e_scrap", 200 ] ],
+      [ [ "processor", 30 ] ],
+      [ [ "RAM", 8 ] ],
+      [ [ "small_lcd_screen", 6 ] ],
+      [ [ "battery_ups", 4 ] ],
+      [ [ "small_storage_battery", 4 ], [ "UPS_off", 4 ] ]
+    ]
+  }
+]
