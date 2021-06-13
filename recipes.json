@@ -38,7 +38,7 @@
       [ [ "RAM", 12 ] ],
       [ [ "small_lcd_screen", 8 ] ],
       [ [ "battery_ups", 4 ] ],
-      [ [ "small_storage_battery", 4 ], [ "UPS_off", 4 ] ]
+      [ [ "small_storage_battery", 8 ] ]
     ]
   },
   {
