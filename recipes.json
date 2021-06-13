@@ -38,7 +38,10 @@
       [ [ "RAM", 12 ] ],
       [ [ "small_lcd_screen", 8 ] ],
       [ [ "battery_ups", 4 ] ],
-      [ [ "small_storage_battery", 8 ] ]
+      [ [ "small_storage_battery", 8 ] ],
+      [ [ "ai_module_advanced", 2 ] ],
+      [ [ "lens", 2 ] ],
+      [ [ "lens_small", 2 ] ]
     ]
   },
   {
