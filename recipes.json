@@ -24,7 +24,8 @@
 	{ "id": "WRENCH_FINE", "level": 1 },
 	{ "id": "SCREW", "level": 1 },
 	{ "id": "SCREW_FINE", "level": 1 },
-	{ "id": "REAM", "level": 1 }
+	{ "id": "REAM", "level": 1 },
+        { "id": "DRILL", "level": 3 }
 	],
     "tools": [ [ [ "soldering_standard", 80, "LIST" ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ], [ [ "mold_plastic", -1 ] ], [ [ "mss_machining_rig", 2500 ] ], [ [ "mss_lathing_rig", 2500 ] ] ],
     "components": [
@@ -41,7 +42,18 @@
       [ [ "small_storage_battery", 8 ] ],
       [ [ "ai_module_advanced", 2 ] ],
       [ [ "lens", 2 ] ],
-      [ [ "lens_small", 2 ] ]
+      [ [ "lens_small", 2 ] ],
+      [ [ "identification_module", 2 ] ],
+      [ [ "bearing", 50 ] ],
+      [ [ "spring", 1 ] ],
+      [ [ "data_card", 1 ] ],
+      [ [ "pathfinding_module", 1 ] ],
+      [ [ "large_lcd_screen", 1 ] ],
+      [ [ "alloy_sheet", 4 ] ],
+      [ [ "wire", 12 ] ],
+      [ [ "magnetron", 1 ] ],
+      [ [ "cu_pipe", 7 ] ],
+      [ [ "pipe", 4 ] ]
     ]
   },
   {
