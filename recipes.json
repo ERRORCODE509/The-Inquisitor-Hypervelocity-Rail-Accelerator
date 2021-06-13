@@ -78,7 +78,7 @@
     "difficulty": 9,
     "time": "90 m",
     "autolearn": true,
-    "using": [ [ "blacksmithing_standard", 25 ],
+    "using": [ [ "blacksmithing_standard", 25 ] ],
     "qualities": [ { "id": "CHISEL", "level": 3 } ],
     "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
     "components": [ [ [ "steel_rail", 14 ] ] ]
