@@ -34,7 +34,7 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ],
-    "ammo_effects": [ "INCENDIARY", "TRAIL", "LOW_RANGE_VAPORIZATION", "PLASMA", "EMP", "PLASMA_BUBBLE", "LASER", "FRAG" ],
+    "ammo_effects": [ "INCENDIARY", "TRAIL", "LOW_RANGE_VAPORIZATION", "PLASMA", "EMP", "PLASMA_BUBBLE", "LASER", "FRAG", "NAPALM", "EXPLOSIVE_SMALL" ],
     "flags": [ "RELOAD_ONE" ]
   }
 ]
