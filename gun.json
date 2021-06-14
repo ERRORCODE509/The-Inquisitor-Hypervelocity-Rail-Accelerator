@@ -19,11 +19,11 @@
     "skill": "launcher",
     "range": 200,
     "ranged_damage": { "damage_type": "stab", "amount": 21500 },
-    "dispersion": 1,
+    "dispersion": 0,
     "durability": 7,
     "clip_size": 1,
     "ups_charges": 20000,
-    "reload": 4500,
+    "reload": 5000,
     "valid_mod_locations": [
       [ "accessories", 3 ],
       [ "emitter", 1 ],
