@@ -27,7 +27,7 @@
     "copy-from": "heavy_rebar_slug",
     "type": "AMMO",
     "name": { "str": "heavy steel slug" },
-    "description": "A large chunk of steel with a sharpened point on one end. You're pretty sure no normal weapon could fire this...",
+    "description": "A large chunk of steel with a sharpened point on one end. You're pretty sure no normal weapon could fire this..."
   },
   {
     "id": "heavy_slug_pack",
