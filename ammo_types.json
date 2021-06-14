@@ -1,8 +1,8 @@
 [
   {
     "type": "ammunition_type",
-    "id": "heavy_rail",
+    "id": "heavy_rail_pack",
     "name": "heavy ferrous rail projectile",
-    "default": "heavy_rebar_slug"
+    "default": "heavy_slug_pack"
   }
 ]
