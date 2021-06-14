@@ -37,5 +37,28 @@
     "dispersion": 0,
     "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
     "relative": { "range": 120, "damage": { "damage_type": "stab", "amount": 3000, "armor_penetration": 2500 } }
+  },
+  {
+    "id": "heavy_slug_pack",
+    "type": "AMMO",
+    "name": { "str": "heavy rebar slug" },
+    "description": "A massive slug with two heavy plutonium fuel batteries, intended to be used with The Inquisitor.",
+    "weight": "2000 g",
+    "longest_side": "32 cm",
+    "volume": "2500 ml",
+    "price": 10000,
+    "price_postapoc": 3000,
+    "to_hit": -3,
+    "bashing": 15,
+    "cutting": 1,
+    "material": [ "steel" ],
+    "symbol": "=",
+    "color": "light_gray",
+    "count": 10,
+    "ammo_type": "heavy_rail",
+    "range": 200,
+    "damage": { "damage_type": "stab", "amount": 7000, "armor_penetration": 5500 },
+    "dispersion": 150,
+    "effects": [ "RECYCLED", "NON_FOULING" ]
   }
 ]
