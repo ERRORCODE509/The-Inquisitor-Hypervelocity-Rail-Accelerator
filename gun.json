@@ -15,7 +15,7 @@
     "material": [ "steel", "superalloy", "plastic" ],
     "symbol": "[",
     "color": "dark_gray",
-    "ammo": "heavy_rail_pack",
+    "ammo": "heavy_slug_pack",
     "skill": "launcher",
     "range": 200,
     "ranged_damage": { "damage_type": "stab", "amount": 21500 },
