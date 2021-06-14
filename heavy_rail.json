@@ -34,7 +34,7 @@
     "type": "AMMO",
     "name": { "str": "heavy slug pack" },
     "description": "A massive slug with two heavy plutonium fuel batteries, intended to be used with The Inquisitor.",
-    "weight": "13050 g",
+    "weight": "130500 g",
     "longest_side": "42 cm",
     "volume": "62500 ml",
     "price": 10000,
