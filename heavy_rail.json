@@ -43,7 +43,7 @@
     "type": "AMMO",
     "name": { "str": "heavy rebar slug" },
     "description": "A massive slug with two heavy plutonium fuel batteries, intended to be used with The Inquisitor.",
-    "weight": "130000 g",
+    "weight": "130500 g",
     "longest_side": "32 cm",
     "volume": "62500 ml",
     "price": 10000,
