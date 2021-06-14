@@ -19,7 +19,7 @@
     "ammo_type": "heavy_rail",
     "range": 200,
     "damage": { "damage_type": "stab", "amount": 7000, "armor_penetration": 5500 },
-    "dispersion": 150,
+    "dispersion": 100,
     "effects": [ "RECYCLED", "NON_FOULING" ]
   },
   {
@@ -28,26 +28,17 @@
     "type": "AMMO",
     "name": { "str": "heavy steel slug" },
     "description": "A large chunk of steel with a sharpened point on one end. You're pretty sure no normal weapon could fire this...",
-    "weight": "1400 g",
-    "volume": "2000 ml",
-    "bashing": 12,
-    "cutting": 2,
-    "material": [ "steel" ],
-    "color": "light_gray",
-    "dispersion": 0,
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
-    "relative": { "range": 120, "damage": { "damage_type": "stab", "amount": 3000, "armor_penetration": 2500 } }
   },
   {
     "id": "heavy_slug_pack",
     "type": "AMMO",
-    "name": { "str": "heavy rebar slug" },
+    "name": { "str": "heavy slug pack" },
     "description": "A massive slug with two heavy plutonium fuel batteries, intended to be used with The Inquisitor.",
-    "weight": "130500 g",
-    "longest_side": "32 cm",
+    "weight": "13050 g",
+    "longest_side": "42 cm",
     "volume": "62500 ml",
     "price": 10000,
-    "price_postapoc": 3000,
+    "price_postapoc": 300000,
     "to_hit": -3,
     "bashing": 15,
     "cutting": 1,
@@ -55,10 +46,10 @@
     "symbol": "=",
     "color": "light_gray",
     "count": 10,
-    "ammo_type": "heavy_rail",
+    "ammo_type": "heavy_slug_pack",
     "range": 200,
-    "damage": { "damage_type": "stab", "amount": 7000, "armor_penetration": 5500 },
-    "dispersion": 150,
+    "damage": { "damage_type": "stab", "amount": 7000, "armor_penetration": 4500 },
+    "dispersion": 0,
     "effects": [ "RECYCLED", "NON_FOULING" ]
   }
 ]
