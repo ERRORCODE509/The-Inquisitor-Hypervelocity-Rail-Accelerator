@@ -82,5 +82,22 @@
     "qualities": [ { "id": "CHISEL", "level": 3 } ],
     "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
     "components": [ [ [ "steel_rail", 14 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "heavy_slug_pack",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_OTHER",
+    "skill_used": "fabrication",
+    "difficulty": 9,
+    "time": "90 m",
+    "autolearn": true,
+    "using": [ [ "blacksmithing_standard", 25 ] ],
+    "qualities": [ { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
+    "components": [
+    [ [ "heavy_steel_slug", 1 ], [ "heavy_rebar_slug", 1 ] ],
+    [ [ "huge_atomic_battery_cell", 2 ] ]
+    ]
   }
 ]
