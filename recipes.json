@@ -55,7 +55,7 @@
       [ [ "magnetron", 1 ] ],
       [ [ "cu_pipe", 30 ] ],
       [ [ "pipe", 6 ] ]
-    ]
+    ],
   },
   {
     "type": "recipe",
@@ -96,6 +96,7 @@
     "components": [
     [ [ "heavy_steel_slug", 1 ], [ "heavy_rebar_slug", 1 ] ],
     [ [ "huge_atomic_battery_cell", 2 ] ]
-    ]
+    ],
+    "flags": [ "NEED_FULL_MAGAZINE" ]
   }
 ]
