@@ -55,7 +55,7 @@
       [ [ "magnetron", 1 ] ],
       [ [ "cu_pipe", 30 ] ],
       [ [ "pipe", 6 ] ]
-    ],
+    ]
   },
   {
     "type": "recipe",
